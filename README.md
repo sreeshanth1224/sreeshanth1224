@@ -1,186 +1,178 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<div align="center">
 
-</head>
 
-<body align="center">
+# 👋 Hey, I'm B. Sreeshanth Reddy
 
-<!-- Banner -->
+### 🚀 Computer Science Engineering Student | Full Stack Learner | AI Explorer | Gamer
 
-<h1>Hi 👋 I'm Sreeshanth</h1>
-
-<h3>
-🚀 Computer Science Engineer | 💻 Full Stack Learner | 🤖 AI Enthusiast | 🎮 Gamer
-</h3>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Express+%7C+Node.js+Enthusiast;React+Developer;Always+Learning+Something+New;Eat+Sleep+Code+Repeat"/>
 
 <p>
-Building cool projects, learning new technologies, and trying to become 1% better every day.
+Building projects, exploring AI, solving problems and slowly becoming the developer my younger self would think is cool.
 </p>
 
-<hr>
+</div>
 
-<h2>🧑‍💻 About Me</h2>
+---
 
-<table align="center">
-<tr>
-<td>
+# 💀 About Me
 
-🌱 Currently learning
-<ul>
-<li>React</li>
-<li>Node.js</li>
-<li>Express</li>
-<li>MongoDB</li>
-<li>AI & LLM Applications</li>
-</ul>
+```javascript
+const sreeshanth = {
 
-🎯 Goals
-<ul>
-<li>Open Source Contributor</li>
-<li>Full Stack Developer</li>
-<li>AI Engineer</li>
-<li>Internship Hunter</li>
-</ul>
+    name: "B. Sreeshanth Reddy",
 
-⚡ Fun Facts
-<ul>
-<li>🎮 Loves Gaming</li>
-<li>📺 Anime Addict</li>
-<li>💪 Gym Beginner</li>
-<li>😂 Professional Meme Consumer</li>
-</ul>
+    college: "NIAT",
 
-</td>
+    role: "Computer Science Engineering Student",
 
-<td>
+    username: "sreeshanth1224",
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320"/>
+    currentlyLearning: [
+        "Backend Development",
+        "Express.js",
+        "Node.js",
+        "Data Structures & Algorithms"
+    ],
 
-</td>
-</tr>
-</table>
+    languages: [
+        "C++",
+        "JavaScript",
+        "Python"
+    ],
 
-<hr>
+    frontend: [
+        "HTML",
+        "CSS",
+        "React.js",
+        "Bootstrap",
+        "Tailwind CSS"
+    ],
 
-<h2>🛠 Tech Stack</h2>
+    backend: [
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "MySQL"
+    ],
 
-<p>
+    motto:
+        "Build. Break. Learn. Repeat."
+}
+```
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,cpp,python,git,github,vscode,tailwind,bootstrap&perline=8"/>
+<div align="center">
 
-</p>
 
-<hr>
 
-<h2>📈 GitHub Stats</h2>
+</div>
 
-<p>
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+# ⚡ Tech Stack
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<div align="center">
 
-</p>
+<img src="https://skillicons.dev/icons?i=cpp,js,python,html,css,react,nodejs,express,mongodb,mysql,bootstrap,tailwind,git,github,vscode&perline=5"/>
 
-<hr>
+</div>
 
-<h2>🔥 GitHub Streak</h2>
+---
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+# 🚀 Featured Projects
 
-<hr>
+## 📚 Taskify
 
-<h2>🏆 GitHub Trophies</h2>
+> Modern productivity dashboard built using **React.js**
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
+✨ Features
 
-<hr>
+- Beautiful UI
+- Task Management
+- Progress Tracking
+- Local Storage
+- Responsive Design
 
-<h2>📊 Contribution Graph</h2>
+---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+## 🎓 Strec-Grader
 
-<hr>
+> Student Record Management System built using **Python**
 
-<h2>💻 Currently Coding</h2>
+✔ Student Management
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="500"/>
+✔ Dynamic Subjects
 
-<hr>
+✔ Marks Tracking
 
-<h2>🚀 Featured Projects</h2>
+✔ Average Calculator
 
-<table align="center">
+✔ Grade Calculator
 
-<tr>
-<td>
+✔ JSON Storage
 
-<h3>📚 Taskify</h3>
+---
 
-Student productivity dashboard built with React.
+## 🌑 Selecto Spectrum Eclipse
 
-⭐ Task Management
+> Interactive choice-driven adventure game built using **C++**
 
-🎯 Progress Tracking
+🎮 Multiple Endings
 
-🎉 Confetti Celebration
+🧠 Hidden Traits
 
-💾 Local Storage
+❤️ Relationship System
 
-</td>
+🌙 Story Based Gameplay
 
-<td>
+---
 
-<h3>🤖 AI Projects</h3>
+# 🌱 Currently Learning
 
-Learning LLMs, AI Apps and Full Stack Development.
+```text
+███████████░░░░░░░░░  Backend Development
 
-</td>
+██████████░░░░░░░░░░  Express.js
 
-</tr>
+█████████░░░░░░░░░░░  Node.js
 
-</table>
+████████░░░░░░░░░░░░  DSA
+```
 
-<hr>
+---
 
-<h2>🌎 Connect With Me</h2>
+# 🎯 Current Goals
 
-<p>
+🚀 Master Backend Development
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+🤖 Build AI Powered Projects
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+💻 Contribute to Open Source
 
-<a href="mailto:youremail@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+📈 Become Internship Ready
 
-</p>
+🌍 Create Products That People Love
 
-<hr>
+---
 
-<h2>🐍 Snake Eating My Contributions</h2>
+# 🎮 Developer Mood
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<div align="center">
 
-<hr>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
 
-<h3>
+</div>
 
-✨ Code • Learn • Build • Repeat ✨
+```cpp
+while(alive)
+{
+    eat();
+    sleep();
+    code();
+    debug();
+    repeat();
+}
+```
 
-</h3>
+---
 
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="350"/>
-
-</body>
-</html>
