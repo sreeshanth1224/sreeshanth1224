@@ -3,13 +3,12 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Sreeshanth | GitHub Profile</title>
+
 </head>
 
 <body align="center">
 
 <!-- Banner -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWQ3bW8yZXd3M2pkcGd2d3l5YjA0a2gxcnJmaDFza3Y5dGF3bWxkYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif" width="100%" alt="coding gif"/>
 
 <h1>Hi 👋 I'm Sreeshanth</h1>
 
@@ -70,7 +69,7 @@ Building cool projects, learning new technologies, and trying to become 1% bette
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,cpp,python,java,git,github,vscode,tailwind,bootstrap&perline=8"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,cpp,python,git,github,vscode,tailwind,bootstrap&perline=8"/>
 
 </p>
 
