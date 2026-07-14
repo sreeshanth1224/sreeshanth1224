@@ -1,5 +1,6 @@
 <div align="center">
 
+<!-- Profile README maintained collaboratively. -->
 
 # 👋 Hey, I'm B. Sreeshanth Reddy
 
@@ -175,4 +176,3 @@ while(alive)
 ```
 
 ---
-
