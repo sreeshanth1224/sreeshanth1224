@@ -9,7 +9,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Express+%7C+Node.js+Enthusiast;React+Developer;Always+Learning+Something+New;Eat+Sleep+Code+Repeat"/>
 
 <p>
-Building projects, exploring AI, solving problems and slowly becoming the developer my younger self would think is cool.
+Building projects, exploring AI, solving problems and slowly becoming the developer my younger self would think is cool......
 </p>
 
 </div>
